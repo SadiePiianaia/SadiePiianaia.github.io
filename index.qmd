@@ -1,5 +1,17 @@
 ---
-title: "SadiePiianaia.github.io"
+title: "Sadie Piianaia"
+image: media/Bellezas de la naturaleza_ Photo.jpeg
+toc: false
+about:
+  template: jolla
+  image-width: 20em
+  links:
+    - icon: github
+      href: https://github.com/SadiePiianaia
+      target: blank
+    - text: Email
+      icon: envelope
+      href: sadie.piianaia@student.chaminade.edu
 ---
 
 This is a Quarto website.
