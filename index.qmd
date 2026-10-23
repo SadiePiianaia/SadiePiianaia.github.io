@@ -6,7 +6,8 @@ about:
   template: jolla
   image-width: 20em
   links:
-    - icon: github
+    - text: Github
+      icon: github
       href: https://github.com/SadiePiianaia
       target: blank
     - text: Email
@@ -14,10 +15,18 @@ about:
       href: sadie.piianaia@student.chaminade.edu
 ---
 
-This is a Quarto website.
+# This is header 1
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## this is header 2
 
-```{r}
-1 + 1
-```
+### header 3
+
+this is paragraph level text. it will be about me – welcome!
+
+- THIS is
+
+- un ordered list (ul)
+
+1.  this is an
+
+2.  order list (ol)

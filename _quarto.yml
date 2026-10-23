@@ -3,12 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Sadie Piianaia"
+  # title: "Sadie Piianaia"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
+      - href: resume.qmd
+        text: Resume
       - about.qmd
+      - icon: github
+        text: Github
+        href: https://github.com/SadiePiianaia
+      
 
 format:
   html:
