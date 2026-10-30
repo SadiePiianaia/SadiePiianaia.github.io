@@ -8,8 +8,8 @@ About this site
 
 {{< pdf media/Sadie Piianaia - RESUME.pdf width=100% height =800 >}}
 
-![](media/Sadie Piianaia - RESUME.pdf)
+![](media/Sadie%20Piianaia%20-%20RESUME.pdf)
 
 ```{r}
-1 + 1
+1 + 2
 ```
