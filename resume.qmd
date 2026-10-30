@@ -11,5 +11,5 @@ About this site
 ![](media/Sadie%20Piianaia%20-%20RESUME.pdf)
 
 ```{r}
-1 + 2
+1 + 2 +0
 ```
